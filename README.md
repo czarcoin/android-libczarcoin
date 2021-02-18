@@ -1,4 +1,4 @@
-# android-libstorj
+# android-libczarcoin
 
 **Notice: Development on android-libstorj is currently on pause during our v3 rearchitecture. Please see [storj/storj](https://github.com/storj/storj) for ongoing v3 development.**
 
